@@ -23,10 +23,10 @@ const AboutPage = () => {
 
         <div className="mt-6">
           <a
-            href="https://Cemilanku.my.id"
+            href="https://cemilanku.vercel.app"
             className="text-sm font-medium text-gray-500 underline"
           >
-            www.Cemilanku.my.id
+            www.cemilanku.vercel.app
             <span aria-hidden="true">&rarr;</span>
           </a>
         </div>
