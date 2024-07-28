@@ -43,7 +43,7 @@ const CheckoutView = ({ id }) => {
         }`;
 
         window.open(
-          `https://wa.me/628777335248?text=${textWhatsapp}`,
+          `https://wa.me/6287773335248?text=${textWhatsapp}`,
           "_blank"
         );
       }
